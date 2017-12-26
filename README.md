@@ -14,6 +14,7 @@ The **learning goals** for this project is:
 - data cleaning
 - data visualization
 - systems development/design life cycle
+- utilizing API's
 - shiny app/shiny server
 
 ## Project Title: Plan.R - Trip Planner
